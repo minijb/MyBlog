@@ -48,3 +48,48 @@ up-direction用来固定自身的旋转！！！
 > 关于线代的本质
 >
 > https://www.bilibili.com/video/BV1ib411t7YR?p=3&vd_source=8beb74be6b19124f110600d2ce0f3957
+
+![image.png](https://s2.loli.net/2022/09/02/SyT4sFbBd83uZHn.png)
+
+## 投影变换
+
+- Orthographic projection正交投影
+- Perspective projection 透视投影---现象：近大远小
+
+![image.png](https://s2.loli.net/2022/09/02/bFAG6XfVJvyBDnP.png)
+
+![image.png](https://s2.loli.net/2022/09/02/xmY6fwhGSavQc1J.png)
+
+### 正交投影
+
+![image.png](https://s2.loli.net/2022/09/02/eVoZ7hwXtz9kvg4.png)
+
+![image.png](https://s2.loli.net/2022/09/02/XNz9deE86tgZWKc.png)
+
+![image.png](https://s2.loli.net/2022/09/02/M2geEbc7ZfTya1Q.png)
+
+![image.png](https://s2.loli.net/2022/09/02/2QLrbEVcFegyDSK.png)
+
+![image.png](https://s2.loli.net/2022/09/02/sHMZ5bxuqYBhC2U.png)
+
+### 透视投影
+
+![image.png](https://s2.loli.net/2022/09/02/jkNBXLlQTvAS79I.png)
+
+![](https://s2.loli.net/2022/09/02/FTehYbcvH5GE163.png)
+
+![image.png](https://s2.loli.net/2022/09/02/u4KHn37J1QI6YTZ.png)
+
+![image.png](https://s2.loli.net/2022/09/02/vXJDeotIubBlxwj.png)
+
+![image.png](https://s2.loli.net/2022/09/02/St3hQNPTkX9p4Db.png)
+
+![image.png](https://s2.loli.net/2022/09/02/gjy6b5vB4JP1umG.png)
+
+![image.png](https://s2.loli.net/2022/09/02/gLifdaQBomJI2R9.png)
+
+![image.png](https://s2.loli.net/2022/09/02/6dpgNn3Vser79IG.png)
+
+![image.png](https://s2.loli.net/2022/09/02/pf1GPeTNvKqJlk2.png)
+
+![image.png](https://s2.loli.net/2022/09/02/fCtTWkFeZnXE72A.png)
