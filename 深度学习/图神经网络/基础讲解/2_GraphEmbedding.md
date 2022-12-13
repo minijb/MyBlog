@@ -75,5 +75,7 @@ Line算法：在度比较低的节点上效果不好
 
 之前都是使用了浅层的结构，这里使用了多层千层模型![image.png](https://s2.loli.net/2022/10/14/pLw9WENzh3GntPd.png)
 
+## 6. 代码
 
+https://github.com/shenweichen/GraphEmbedding
 
