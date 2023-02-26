@@ -46,7 +46,7 @@ efdab37d81c986409348ac5fca97e8a8df30e1ec        refs/heads/feature
 32a4a450dbd1dcfc79e861f6cef7832ea1accf72        refs/heads/master
 ```
 
-会的远程分支---两种方法`git pull/fetch`
+改变的远程分支---两种方法`git pull/fetch`
 
 如果我们仅仅想要更新远程分支的状态而不希望改变当前工作目录的状态，我们使用fetch
 
